@@ -32,11 +32,14 @@ You can contact/find more info about me, in:
 You found this helpfull?, so, please, consider make a donation :)
 <p align="center">
 You can do it with PayPal:
+
 [![PayPal Image](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LFWTE7538UVTG)
+
 Or, to my BitCoin account:
+
 1EehaA9wP2MFat7HjXW8E2D4paPj2i93Ze
 </p>
 Every, IDENTIFICABLE donator, will be greeted here :)
 
 ### Contributors
-#### Bruno (lots of RRrRrRRRrr)
+
