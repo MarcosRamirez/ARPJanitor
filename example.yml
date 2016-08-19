@@ -1,0 +1,11 @@
+## YAML Template.
+macaddress:
+  tag: machinename
+  joins:
+    shell:
+      - command 1
+      - command 3
+      - etc
+  leaves:
+    shell:
+      single command
