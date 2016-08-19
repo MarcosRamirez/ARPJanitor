@@ -19,7 +19,7 @@ Scapy
 
 ##Usage
 
-Copy example.py to ARPJanitor.py (in same directory than ARPJanitor.py)
+Copy example.yml to ARPJanitor.yml (in same directory than ARPJanitor.py)
 Edit it 
 
 And...
