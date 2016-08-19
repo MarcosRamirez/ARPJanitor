@@ -11,11 +11,18 @@ Also, allows you to perform actions via YAML config
 
 ## Installation
 
+Install Scapy, then, see usage.
+
 ##Dependencies
 
 Scapy
 
 ##Usage
+
+Copy example.py to ARPJanitor.py (in same directory than ARPJanitor.py)
+Edit it 
+
+And...
 
 Just run it
 
