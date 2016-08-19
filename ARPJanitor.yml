@@ -5,10 +5,10 @@ f8:db:7f:79:03:22:
   tag: Master Mobile
   joins:
     shell:
-      sudo motion
+      sudo killall motion
   leaves:
     shell:
-      sudo killall motion
+      sudo motion
       
 00:1d:d8:79:01:09:
   tag: XBOX 360
