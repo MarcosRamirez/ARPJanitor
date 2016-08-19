@@ -33,7 +33,7 @@ You found this helpfull?, so, please, consider make a donation :)
 <p align="center">
 You can do it with PayPal:
 
-[![PayPal Image](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LFWTE7538UVTG)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LFWTE7538UVTG)
 
 Or, to my BitCoin account:
 
