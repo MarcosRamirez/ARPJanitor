@@ -1,0 +1,30 @@
+## YAML Template.
+f8:db:7f:79:03:22:
+  joins:
+    shell:
+      sudo killall motion
+  leaves:
+    shell:
+      sudo motion
+      
+00:1d:d8:79:01:09:
+  joins:
+    shell:
+      sudo runuser -l marcos -c 'env DISPLAY=:0 /home/marcos/Apps/PS3MediaServer/PMS.sh'
+
+  leaves:
+    shell:
+      sudo killall PMS.jar
+
+
+ ## YAML Template.
+macaddress:
+  tag: machinename
+  joins:
+    shell:
+      - command 1
+      - command 3
+      - etc
+  leaves:
+    shell:
+      single command
