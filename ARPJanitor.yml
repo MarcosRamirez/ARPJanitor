@@ -1,0 +1,20 @@
+## YAML Template.
+
+---
+f8:db:7f:79:03:22:
+  tag: Master Mobile
+  joins:
+    shell:
+      sudo motion
+  leaves:
+    shell:
+      sudo killall motion
+      
+00:1d:d8:79:01:09:
+  tag: XBOX 360
+  joins:
+    shell:
+      sudo runuser -l marcos -c 'env DISPLAY=:0 /home/marcos/Apps/PS3MediaServer/PMS.sh'
+  leaves:
+    shell:
+      sudo killall java
